@@ -1,2 +1,6 @@
 # Cpp
-This repository contains proplems done in C++, includes class design, dynamic memory, inheritance, polymorphism practice.
+This repository contains proplems done in C++, includes practice in:
+* Class design
+* Dynamic memory
+* Inheritance
+* Polymorphism 

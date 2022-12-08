@@ -4,3 +4,6 @@ This repository contains proplems done in C++, includes practice in:
 * Dynamic memory
 * Inheritance
 * Polymorphism 
+* Data Structures & Algorithms
+* Recursion
+
